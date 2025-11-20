@@ -38,7 +38,6 @@ Meu objetivo é dominar os pilares de Linux, automação, contêineres, CI/CD, C
 
 # 📬 Contato
 
-📧 Seu email aqui
-🔗 LinkedIn aqui
+📧 dk-luan@hotmail.com
+🔗 https://www.linkedin.com/in/luanddias/
 
-Obrigado por visitar meu perfil! 🚀 meu perfil! 🚀
