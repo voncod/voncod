@@ -6,6 +6,11 @@ Bem-vindo ao meu perfil! Atualmente estou em transição de carreira para a áre
 
 Meu objetivo é dominar os pilares de Linux, automação, contêineres, CI/CD, Cloud e observabilidade — e documentar tudo no GitHub.
 
+# 📬 Contato
+
+📧 dk-luan@hotmail.com
+🔗 https://www.linkedin.com/in/luanddias/
+
 ---
 
 # 🚀 Tecnologias & Ferramentas
@@ -33,11 +38,3 @@ Meu objetivo é dominar os pilares de Linux, automação, contêineres, CI/CD, C
 * Configuração Nginx – *em breve*
 * Bash Scripts – *em breve*
 * Projetos Python – *em andamento*
-
----
-
-# 📬 Contato
-
-📧 dk-luan@hotmail.com
-🔗 https://www.linkedin.com/in/luanddias/
-
