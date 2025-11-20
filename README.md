@@ -8,20 +8,29 @@ Meu objetivo é aplicar esses conhecimentos em um contexto profissional, contrib
 
 🔗 Conecte-se comigo no LinkedIn: https://www.linkedin.com/in/luanddias/
 
-## 🧩 Tecnologias • Roadmap DevOps
+# Olá, eu sou [Seu Nome] 👋
 
-| Área                        | Tecnologias / Ferramentas                                         | Status       |
-|-----------------------------|--------------------------------------------------------------------|--------------|
-| **Linux & Automação**       | Ubuntu (WSL2), Bash                                                | 🟢 Usando     |
-|                             | NGINX                                                              | 🔵 Planejado  |
-| **Versionamento**           | Git, GitHub                                                        | 🟢 Usando     |
-| **Programação**             | Python                                                             | 🟡 Aprendendo |
-|                             | HTML, CSS                                                          | 🔵 Planejado  |
-| **Contêineres**             | Docker, Docker Compose                                             | 🔵 Planejado  |
-| **CI/CD**                   | GitHub Actions, Jenkins, Azure DevOps                              | 🔵 Planejado  |
-| **IaC (Infra as Code)**     | Terraform, Ansible                                                 | 🔵 Planejado  |
-| **Cloud**                   | AWS                                                                | 🔵 Planejado  |
-| **Orquestração**            | Kubernetes (Minikube)                                              | 🔵 Planejado  |
-| **Monitoramento**           | Prometheus, Grafana                                                | 🔵 Planejado  |
-| **Ferramentas**             | VS Code, WSL2                                                      | 🟢 Usando     |
+![Sua foto ou banner]
 
+**Desenvolvedor Python | Data Science | Back-end**  
+Focado em transformar dados em soluções que geram valor real.  
+Atualmente estudando/trabalhando com [área principal].
+
+🔭 Trabalhando em projetos com IA, automação e dashboards  
+🌱 Aprendendo profundamente LangChain, FastAPI e MLOps  
+📫 stevilliss@hotmail.com | [linkedin.com/in/seu-perfil] | [seu-site.com.br]
+
+### 🚀 Tecnologias que uso no dia a dia
+
+| Área                  | Tecnologias |
+|-----------------------|-------------|
+| Linguagem principal   | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
+| Back-end              | ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi) ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask) |
+| Dados & ML            | ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas) ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch) ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C) |
+| Front-end             | ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react) |
+| Banco de dados        | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite) |
+| Ferramentas           | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git) |
+
+### 🔥 Projetos em destaque
+
+(coloque aqui 4 cards iguais aos do Stevillis com screenshot + descrição curta + badges + botão Demo)
