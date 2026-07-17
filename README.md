@@ -1,4 +1,4 @@
-# 👨‍💻 Luan Dias
+# Luan Dias
 
 
 
@@ -14,7 +14,7 @@ Meu objetivo é dominar os pilares de Linux, automação, contêineres, CI/CD, C
 
 
 
-# 📬 Contato
+# Contato
 
 
 
@@ -27,7 +27,7 @@ Meu objetivo é dominar os pilares de Linux, automação, contêineres, CI/CD, C
 ---
 
 
-# 🚀 Tecnologias & Ferramentas
+# Tecnologias & Ferramentas
 
 ### 🟢 Usando • 🟡 Aprendendo • 🔵 Planejado
 
