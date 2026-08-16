@@ -40,35 +40,34 @@ Utilizo Python principalmente como ferramenta de **automação para Cloud e Infr
 
 # 📘 Projetos
 
-### Python Phase 1
+### 🐍 Python
 
-Repositório de conclusão dos meus estudos iniciais de Python, com pequenos projetos independentes voltados para automação e tarefas relacionadas a infraestrutura.
+Projetos desenvolvidos durante a Fase 1 para consolidar Python como ferramenta de automação para Cloud e Infraestrutura.
 
-* **Server Health Report** — processamento de dados estruturados de servidores e geração de relatório em JSON.
-* **API Health Monitor** — consumo de API HTTP, tratamento de erros e geração de relatório de saúde.
-* **File Automation** — organização automática de arquivos utilizando `pathlib`.
+- **Server Health Report** — processamento de dados estruturados de servidores e geração de relatório em JSON.
+- **API Health Monitor** — consumo de API HTTP, tratamento de erros e geração de relatório de saúde.
+- **File Automation** — organização automática de arquivos utilizando `pathlib`.
 
-🔗 **[Python Phase 1](./python-phase1)**
+🔗 **[Python Phase 1](https://github.com/voncod/python-phase1)**
 
 ### Bash / Linux
 
-Projetos e scripts desenvolvidos durante meus estudos de Shell Scripting e administração básica de sistemas Linux.
+Projetos desenvolvidos durante meus estudos de Shell Scripting e automação em Linux, mostrando a evolução desde a organização básica de arquivos até processamento, logging e geração de métricas.
 
-* Automação de arquivos
-* Geração de logs
-* Processamento de arquivos
-* Scripts para tarefas administrativas
+🔗 **[Bash-Script-File-Organizer](https://github.com/voncod/Bash-Script-File-Organizer/blob/main/README.md)** — organização de arquivos por extensão, criação de diretórios e registro das movimentações.
 
-### Web / Infraestrutura
-
-* Configuração e estudos de Nginx
-* Reverse Proxy
-* Serviços e infraestrutura Linux
+🔗 **[Log-Automation-Tool](https://github.com/voncod/Log-Automation-Tool/blob/main/log_automation.sh)** — evolução do organizador com logging e contagem de arquivos por extensões específicas.
 
 ---
 
-# 🎯 Objetivo
+### 🚧 Próximos projetos
 
-Construir uma carreira em **Cloud / Infraestrutura**, desenvolvendo progressivamente conhecimentos em Linux, redes, automação, containers, CI/CD, Kubernetes, AWS, Terraform e observabilidade.
+Novos projetos serão adicionados conforme avanço nos estudos de:
 
-Os projetos deste perfil acompanham essa evolução e são atualizados conforme novos conhecimentos são consolidados.
+- Networking
+- Docker
+- CI/CD
+- Kubernetes
+- AWS
+- Terraform
+- Observabilidade
