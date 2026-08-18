@@ -42,11 +42,11 @@ Utilizo Python principalmente como ferramenta de **automação para Cloud e Infr
 
 ### 🐍 Python
 
-Projetos desenvolvidos durante a Fase 1 para consolidar Python como ferramenta de automação para Cloud e Infraestrutura.
+Projetos desenvolvidos durante meus estudos para consolidar Python como ferramenta de automação para Cloud e Infraestrutura.
 
-- **Server Health Report** — processamento de dados estruturados de servidores e geração de relatório em JSON.
-- **API Health Monitor** — consumo de API HTTP, tratamento de erros e geração de relatório de saúde.
-- **File Automation** — organização automática de arquivos utilizando `pathlib`.
+- **Server Health Report** — Processamento de dados estruturados de servidores e geração de relatório em JSON.
+- **API Health Monitor** — Consumo de API HTTP, tratamento de erros e geração de relatório de saúde.
+- **File Automation** — Organização automática de arquivos utilizando `pathlib`.
 
 🔗 **[Python Phase 1](https://github.com/voncod/python-phase1)**
 
